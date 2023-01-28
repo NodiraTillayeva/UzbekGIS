@@ -21,9 +21,9 @@ In this project I parsed 300 cafes in Tashkent as csvs and mapped them on a feat
 
 ###  [4) ClosestHospitals.ipynb](https://github.com/NodiraTillayeva/ArcGis/blob/main/2.%20Cafes/Cafes.ipynb)
 
-In this project I parsed 300 cafes in Tashkent as csvs and mapped them on a feature layer by creating buffers and coloring them by ranks. ALso I published it on ArcGIS Portal!
+This application tells you the closest path to the nearest hospitals in case of emergency!
 
-![](https://github.com/NodiraTillayeva/ArcGis/blob/main/2.%20Cafes/cafes.PNG)
+![](https://github.com/NodiraTillayeva/ArcGis/blob/main/4.%20Hospitals/Hospitals.PNG)
 
 
 
