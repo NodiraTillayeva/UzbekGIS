@@ -15,7 +15,7 @@ In this project I parsed 300 cafes in Tashkent as csvs and mapped them on a feat
 
 ###  [3) Enrichment.ipynb](https://github.com/NodiraTillayeva/ArcGis/blob/main/3.%20Enrichment%20Sample/Enrichment.ipynb)
 
-In this project I parsed 300 cafes in Tashkent as csvs and mapped them on a feature layer by creating buffers and coloring them by ranks. ALso I published it on ArcGIS Portal!
+The GeoEnrichment enrich capability adds location intelligence to the data by providing facts about a location or an area. Using GeoEnrichment, you can get information about the people and places in a specific area or within a certain distance or drive time from a location. It enables you to query and use information from a large collection of datasets including population, income, housing, consumer behavior, and the natural environment.
 
 ![](https://github.com/NodiraTillayeva/ArcGis/blob/main/2.%20Cafes/cafes.PNG)
 
