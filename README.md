@@ -7,7 +7,7 @@ Intro project contains infographics on air pollution levels and queries top 40 m
 ![](https://github.com/NodiraTillayeva/ArcGis/blob/main/1.%20PM25Analysis/def.PNG)
 
 
-###  [2) Cafes.ipynb](https://github.com/NodiraTillayeva/ArcGis/blob/main/1.%20PM25Analysis/Pollution.ipynb)
+###  [2) Cafes.ipynb](https://github.com/NodiraTillayeva/ArcGis/blob/main/2.%20Cafes/Cafes.ipynb)
 
 In this project I parsed 300 cafes in Tashkent as csvs and mapped them on a feature layer by creating buffers and coloring them by ranks. ALso I published it on ArcGIS Portal!
 
