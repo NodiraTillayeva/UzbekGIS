@@ -13,6 +13,23 @@ In this project I parsed 300 cafes in Tashkent as csvs and mapped them on a feat
 
 ![](https://github.com/NodiraTillayeva/ArcGis/blob/main/2.%20Cafes/cafes.PNG)
 
+###  [3) Enrichment.ipynb](https://github.com/NodiraTillayeva/ArcGis/blob/main/3.%20Enrichment%20Sample/Enrichment.ipynb)
+
+In this project I parsed 300 cafes in Tashkent as csvs and mapped them on a feature layer by creating buffers and coloring them by ranks. ALso I published it on ArcGIS Portal!
+
+![](https://github.com/NodiraTillayeva/ArcGis/blob/main/2.%20Cafes/cafes.PNG)
+
+###  [4) ClosestHospitals.ipynb](https://github.com/NodiraTillayeva/ArcGis/blob/main/2.%20Cafes/Cafes.ipynb)
+
+In this project I parsed 300 cafes in Tashkent as csvs and mapped them on a feature layer by creating buffers and coloring them by ranks. ALso I published it on ArcGIS Portal!
+
+![](https://github.com/NodiraTillayeva/ArcGis/blob/main/2.%20Cafes/cafes.PNG)
+
+
+
+
+
+
 
 
 
