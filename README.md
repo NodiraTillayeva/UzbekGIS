@@ -27,6 +27,15 @@ This application tells you the closest path to the nearest hospitals in case of 
 
 
 
+###  [5) Raster.ipynb](https://github.com/NodiraTillayeva/ArcGis/blob/main/5.%20Raster/Raster.ipynb)
+
+In this notebook I basically analyze raster image from satellites and experiement with different raster functions to retrieve information about Agriculture, Vegetation and Slope.
+
+
+
+
+
+
 
 
 
