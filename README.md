@@ -35,6 +35,72 @@ In this notebook I basically analyze raster image from satellites and experiemen
 
 
 
+1. Climate Extremes: Heat (NOAA)
+can show us exactly when, where, and how temperatures were abnormally high this year. 
+
+https://www.arcgis.com/apps/mapviewer/index.html?layers=800c0f5aed3b48d493477a428ac1e747
+
+https://learngis2.maps.arcgis.com/apps/mapviewer/index.html?layers=1cfb0f94bcb042178b262d5ec1714d3c
+
+Есть глоабльный и более детальный для некоторых стран в которые Узб не входит. Но общую инфу из глобала вытащить можно.
+
+2. Change in Infrastructure from 2018-2021 (Sentinel)
+https://www.arcgis.com/apps/mapviewer/index.html?layers=30c4287128cc446b888ca020240c456b
+
+https://www.arcgis.com/apps/mapviewer/index.html?layers=cfcb7609de5f478eb7666240902d4d3d
+Change in water, crop lands, build areas.
+
+По результатам можно сказать что много территории поменялось на сельскохозяйство и современных зданий.
+
+3. Интересные карты с проекциями на будущее
+
+https://learngis2.maps.arcgis.com/home/item.html?id=8433250e0a4148f5a3889c66e78abdf1
+
+4. Major Earthquakes (NOAA)
+https://learngis2.maps.arcgis.com/apps/mapviewer/index.html?layers=7add98e882ec4442931e63b29f2d3b94
+
+5. MODIS Real Time(NASA)
+
+https://learngis2.maps.arcgis.com/apps/mapviewer/index.html?layers=b8f4033069f141729ffb298b7418b653
+
+6. GLDAS Precipitation 2000 - Present
+Осадки
+
+https://learngis2.maps.arcgis.com/apps/mapviewer/index.html?webmap=01fa55f171eb48a7ac9c460c0339e6c1
+
+7. Cейсмически активные зоны
+
+https://learngis2.maps.arcgis.com/apps/mapviewer/index.html?layers=37a384d4c1ef4f56a33a40f291a634e9
+
+8. Global Human Footprint Index represents the relative human influence in each terrestrial biome, expressed as a percentage.
+
+https://learngis2.maps.arcgis.com/home/item.html?id=f659bfae8c9948d2be6a33b306193ced
+
+9. PM25 by OpenAQ
+
+Every day activities such as driving, burning coal for electricity, wildfires, running factories, even cooking and cleaning, release particles into the air. 
+
+https://learngis2.maps.arcgis.com/home/item.html?id=8dcf5d4e124f480fa8c529fbe25ba04e
+
+10. Solar Eclipse
+
+https://geoxc-apps2.bd.esri.com/Visualization/solar3d/index.html
+
+11. 
+Header
+Open Opportunity Data
+https://esrifederal.maps.arcgis.com/apps/webappviewer/index.html?id=852f6731b72f465ab2fbbe76d4269f00
+
+Здесь нету УЗб но мне очень понравилась сама идея
+
+12. Mapping the Scope of Human Influence
+Очень классно
+
+https://story.maps.arcgis.com/apps/MapJournal/index.html?appid=d14f53dcaf7b4542a8c9110eeabccf1c
+
+
+
+
 
 
 
