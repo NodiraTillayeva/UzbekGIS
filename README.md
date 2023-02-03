@@ -33,7 +33,7 @@ In this notebook I basically analyze raster image from satellites and experiemen
 
 
 
-
+## Useful Resources and Maps
 
 [1. Climate Extremes: Heat (NOAA)](https://www.arcgis.com/apps/mapviewer/index.html?layers=800c0f5aed3b48d493477a428ac1e747)
 can show us exactly when, where, and how temperatures were abnormally high this year. 
