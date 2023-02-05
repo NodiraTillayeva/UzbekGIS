@@ -2,7 +2,7 @@
 ## Featured
 ###  [Aral.ipynb](https://github.com/NodiraTillayeva/ArcGis/blob/main/Aral.ipynb)
 
-Aral change using Landsat 8 Imagery from every year with a help of Earth Engine
+Aral changes using Landsat 8 Imagery from every year with a help of Earth Engine
 
 ![](https://github.com/NodiraTillayeva/ArcGis/blob/main/Aral.png)
 
