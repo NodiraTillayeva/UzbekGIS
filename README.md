@@ -4,7 +4,7 @@
 
 Aral changes using Landsat 8 Imagery from every year with a help of Earth Engine
 
-![](https://github.com/NodiraTillayeva/ArcGis/blob/main/Aral.png)
+![](https://github.com/NodiraTillayeva/ArcGis/blob/main/Aral/Aral.png)
 
 
 ## ArcGis
