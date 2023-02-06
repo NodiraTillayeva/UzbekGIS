@@ -5,8 +5,6 @@
 Aral changes using Landsat 8 Imagery from every year with a help of Earth Engine
 
 ![](https://github.com/NodiraTillayeva/ArcGis/blob/main/Aral/Aral.png)
-
-
 ## ArcGis
 ###  [1) Pollution.ipynb](https://github.com/NodiraTillayeva/ArcGis/blob/main/1.%20PM25Analysis/Pollution.ipynb)
 
