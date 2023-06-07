@@ -6,6 +6,12 @@ Aral changes using Landsat 8 Imagery from every year with a help of Earth Engine
 
 ![](https://github.com/NodiraTillayeva/ArcGis/blob/main/Aral/Aral.png)
 
+###  [TashkentChange.ipynb](https://github.com/NodiraTillayeva/ArcGis/blob/main/Aral/Aral.ipynb)
+
+Tashkent changes in greenlands over the time
+
+![](https://github.com/NodiraTillayeva/ArcGis/blob/main/Aral/Aral.png)
+
 ###  [1) OSM.ipynb](https://github.com/NodiraTillayeva/ArcGis/blob/main/Aral/Aral.ipynb)
 
 Getting info about location using Open Street Maps (OSM) and parsing it
