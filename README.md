@@ -12,6 +12,13 @@ Tashkent changes in greenlands over the time
 
 ![](https://github.com/NodiraTillayeva/ArcGis/blob/main/Aral/Aral.png)
 
+
+###  [SAMFineTuneFor Seg.ipynb](https://github.com/NodiraTillayeva/ArcGis/blob/main/Aral/Aral.ipynb)
+
+Fine Tuning SAM model from Meta AI on satellite imagery to detect rooftops
+
+![](https://github.com/NodiraTillayeva/ArcGis/blob/main/Aral/Aral.png)
+
 ###  [1) OSM.ipynb](https://github.com/NodiraTillayeva/ArcGis/blob/main/Aral/Aral.ipynb)
 
 Getting info about location using Open Street Maps (OSM) and parsing it
