@@ -38,13 +38,7 @@ In this project I parsed 300 cafes in Tashkent as csvs and mapped them on a feat
 
 ![](https://github.com/NodiraTillayeva/ArcGis/blob/main/2.%20Cafes/cafes.PNG)
 
-###  [3) Enrichment.ipynb](https://github.com/NodiraTillayeva/ArcGis/blob/main/3.%20Enrichment%20Sample/Enrichment.ipynb)
-
-The GeoEnrichment enrich capability adds location intelligence to the data by providing facts about a location or an area. Using GeoEnrichment, you can get information about the people and places in a specific area or within a certain distance or drive time from a location.
-
-![](https://github.com/NodiraTillayeva/ArcGis/blob/main/3.%20Enrichment%20Sample/EnrichCircle.PNG)
-
-###  [4) ClosestHospitals.ipynb](https://github.com/NodiraTillayeva/ArcGis/blob/main/2.%20Cafes/Cafes.ipynb)
+###  [3) ClosestHospitals.ipynb](https://github.com/NodiraTillayeva/ArcGis/blob/main/2.%20Cafes/Cafes.ipynb)
 
 This application tells you the closest path to the nearest hospitals in case of emergency!
 
@@ -52,7 +46,7 @@ This application tells you the closest path to the nearest hospitals in case of 
 
 
 
-###  [5) Raster.ipynb](https://github.com/NodiraTillayeva/ArcGis/blob/main/5.%20Raster/Raster.ipynb)
+###  [4) Raster.ipynb](https://github.com/NodiraTillayeva/ArcGis/blob/main/5.%20Raster/Raster.ipynb)
 
 In this notebook I basically analyze raster image from satellites and experiement with different raster functions to retrieve information about Agriculture, Vegetation and Slope.
 
