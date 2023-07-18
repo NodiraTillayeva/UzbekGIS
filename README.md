@@ -52,39 +52,47 @@ In this notebook I basically analyze raster image from satellites and experiemen
 
 
 
-## Useful Resources and Maps
+# Useful Resources and Maps for Uzbekistan
 
-[1. Climate Extremes: Heat (NOAA)](https://www.arcgis.com/apps/mapviewer/index.html?layers=800c0f5aed3b48d493477a428ac1e747)
-can show us exactly when, where, and how temperatures were abnormally high this year. 
-Есть глоабльный и более детальный для некоторых стран в которые Узб не входит. Но общую инфу из глобала вытащить можно.
+This document provides a list of useful resources and maps for Uzbekistan. The resources cover a variety of topics, including climate change, population growth, economic development, infrastructure, and the environment.
 
-[2. Change in Infrastructure from 2018-2021 (Sentinel)](https://www.arcgis.com/apps/mapviewer/index.html?layers=30c4287128cc446b888ca020240c456b)
-Change in water, crop lands, build areas.
-По результатам можно сказать что много территории поменялось на сельскохозяйство и современных зданий.
+## Resources
 
-[3. Интересные карты с проекциями на будущее](https://learngis2.maps.arcgis.com/home/item.html?id=8433250e0a4148f5a3889c66e78abdf1)
+* [Climate Extremes: Heat (NOAA)](https://www.arcgis.com/apps/mapviewer/index.html?layers=800c0f5aed3b48d493477a428ac1e747)
 
-[4. Major Earthquakes (NOAA)](https://learngis2.maps.arcgis.com/apps/mapviewer/index.html?layers=7add98e882ec4442931e63b29f2d3b94)
+  This map shows the global distribution of extreme heat events from 1951 to 2020. The map can be zoomed in to show specific regions, and the data can be filtered by year, month, and event type.
 
-[5. MODIS Real Time(NASA)](https://learngis2.maps.arcgis.com/apps/mapviewer/index.html?layers=b8f4033069f141729ffb298b7418b653)
+* [Change in Infrastructure from 2018-2021 (Sentinel)](https://www.arcgis.com/apps/mapviewer/index.html?layers=30c4287128cc446b888ca020240c456b)
 
-[6. GLDAS Precipitation 2000 - Present](https://learngis2.maps.arcgis.com/apps/mapviewer/index.html?webmap=01fa55f171eb48a7ac9c460c0339e6c1)
-Осадки
+  This map shows the change in infrastructure in Uzbekistan from 2018 to 2021. The map can be zoomed in to show specific areas, and the data can be filtered by type of infrastructure.
 
-[7. Cейсмически активные зоны](https://learngis2.maps.arcgis.com/apps/mapviewer/index.html?layers=37a384d4c1ef4f56a33a40f291a634e9)
+* [Interesting Maps with Projections for the Future](https://learngis2.maps.arcgis.com/home/item.html?id=8433250e0a4148f5a3889c66e78abdf1)
 
-[8. Global Human Footprint Index](https://learngis2.maps.arcgis.com/home/item.html?id=f659bfae8c9948d2be6a33b306193ced) represents the relative human influence in each terrestrial biome, expressed as a percentage.
+  This website provides a variety of maps that show projections for the future of Uzbekistan. The maps cover a variety of topics, including climate change, population growth, and economic development.
 
-[9. PM25 by OpenAQ](https://learngis2.maps.arcgis.com/home/item.html?id=8dcf5d4e124f480fa8c529fbe25ba04e)
-Every day activities such as driving, burning coal for electricity, wildfires, running factories, even cooking and cleaning, release particles into the air. 
+* [Major Earthquakes (NOAA)](https://learngis2.maps.arcgis.com/apps/mapviewer/index.html?layers=7add98e882ec4442931e63b29f2d3b94)
 
-[10. Solar Eclipse](https://geoxc-apps2.bd.esri.com/Visualization/solar3d/index.html)
+  This map shows the global distribution of major earthquakes from 1960 to 2020. The map can be zoomed in to show specific regions, and the data can be filtered by year, magnitude, and location.
 
-[11.Open Opportunity Data](https://esrifederal.maps.arcgis.com/apps/webappviewer/index.html?id=852f6731b72f465ab2fbbe76d4269f00)
-Здесь нету УЗб но мне очень понравилась сама идея
+* [MODIS Real Time (NASA)](https://learngis2.maps.arcgis.com/apps/mapviewer/index.html?layers=b8f4033069f141729ffb298b7418b653)
 
-[12. Mapping the Scope of Human Influence](https://story.maps.arcgis.com/apps/MapJournal/index.html?appid=d14f53dcaf7b4542a8c9110eeabccf1c)
+  This website provides a variety of real-time data from the MODIS satellite, including images of the Earth, atmospheric data, and ocean data.
 
+* [GLDAS Precipitation 2000 - Present](https://learngis2.maps.arcgis.com/apps/mapviewer/index.html?webmap=01fa55f171eb48a7ac9c460c0339e6c1)
+
+  This map shows the global distribution of precipitation from 2000 to the present. The map can be zoomed in to show specific regions, and the data can be filtered by year, month, and type of precipitation.
+
+* [Seismically Active Zones](https://learngis2.maps.arcgis.com/apps/mapviewer/index.html?layers=37a384d4c1ef4f56a33a40f291a634e9)
+
+  This map shows the global distribution of seismically active zones. The map can be zoomed in to show specific regions, and the data can be filtered by magnitude and location.
+
+* [Global Human Footprint Index](https://learngis2.maps.arcgis.com/home/item.html?id=f659bfae8c9948d2be6a33b306193ced)
+
+  This map shows the global distribution of human impact on the environment. The map can be zoomed in to show specific regions, and the data can be filtered by type of impact.
+
+* [PM2.5 by OpenAQ](https://learngis2.maps.arcgis.com/apps/mapviewer/index.html?layers=8dcf5d4e124f480fa8c529fbe25ba04e)
+
+  This map shows the global distribution of PM2.5 pollution. PM2.5
 
 
 
