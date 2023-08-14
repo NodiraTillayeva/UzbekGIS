@@ -6,22 +6,19 @@ Aral changes using Landsat 8 Imagery from every year with a help of Earth Engine
 
 ![](https://github.com/NodiraTillayeva/ArcGis/blob/main/Aral/Aral.png)
 
-###  [TashkentChange.ipynb](https://github.com/NodiraTillayeva/ArcGis/blob/main/Aral/Aral.ipynb)
+###  [TashkentGreenlands.ipynb](https://github.com/NodiraTillayeva/ArcGis/blob/main/samScript.ipynb)
 
-Tashkent changes in greenlands over the time
+Vegetation percentage calculation using SAM and text prompts
 
-![](https://github.com/NodiraTillayeva/ArcGis/blob/main/Aral/Aral.png)
+![image](https://github.com/NodiraTillayeva/ArcGis/assets/74857220/5a1f127d-4e5e-4873-a216-142a5cb8426d)
 
-
-###  [SAMFineTuneFor Seg.ipynb](https://github.com/NodiraTillayeva/ArcGis/blob/main/Aral/Aral.ipynb)
-
-Fine Tuning SAM model from Meta AI on satellite imagery to detect rooftops
-
-![](https://github.com/NodiraTillayeva/ArcGis/blob/main/Aral/Aral.png)
 
 ###  [1) OSM.ipynb](https://github.com/NodiraTillayeva/ArcGis/blob/main/Aral/Aral.ipynb)
 
 Getting info about location using Open Street Maps (OSM) and parsing it
+
+![image](https://github.com/NodiraTillayeva/ArcGis/assets/74857220/7075e2e9-6fa8-47a7-94c6-56c8225028b8)
+
 
 
 ## ArcGis
