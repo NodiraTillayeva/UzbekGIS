@@ -1,0 +1,46 @@
+// Define the Area of Interest (AOI) - Chilanzar District
+var chilanzar = ee.Geometry.Polygon([
+  [69.172, 41.261],
+  [69.172, 41.255],
+  [69.176, 41.255],
+  [69.176, 41.261]
+]); // Modify coordinates to match the exact Chilanzar boundary
+
+// Filter Sentinel-2 data for April 2017
+var sentinel2017 = ee.ImageCollection('COPERNICUS/S2')
+  .filterDate('2017-04-01', '2017-05-30')
+  .filterBounds(chilanzar)
+  .filter(ee.Filter.lt('CLOUDY_PIXEL_PERCENTAGE', 20))
+  .median();
+
+// Filter Sentinel-2 data for April 2024
+var sentinel2024 = ee.ImageCollection('COPERNICUS/S2')
+  .filterDate('2024-04-01', '2024-05-30')
+  .filterBounds(chilanzar)
+  .filter(ee.Filter.lt('CLOUDY_PIXEL_PERCENTAGE', 20))
+  .median();
+
+// Calculate NDVI for 2017
+var ndvi2017 = sentinel2017.normalizedDifference(['B8', 'B4']).rename('NDVI_2017');
+
+// Calculate NDVI for 2024
+var ndvi2024 = sentinel2024.normalizedDifference(['B8', 'B4']).rename('NDVI_2024');
+
+// Display results on the map
+Map.centerObject(chilanzar, 14);
+Map.addLayer(ndvi2017, {min: 0, max: 0.8, palette: ['red', 'yellow', 'green']}, 'NDVI April 2017');
+Map.addLayer(ndvi2024, {min: 0, max: 0.6, palette: ['red','yellow',  'green']}, 'NDVI April 2024');
+
+// Calculate NDVI change
+var ndviChange = ndvi2024.subtract(ndvi2017).rename('NDVI_Change');
+
+// Add NDVI change layer to the map
+Map.addLayer(ndviChange, {min: -0.5, max: 0.5, palette: ['red', 'white', 'green']}, 'NDVI Change (2024-2017)');
+
+// Export the results
+Export.image.toDrive({
+  image: ndviChange,
+  description: 'Chilanzar_NDVI_Change',
+  scale: 10,
+  region: chilanzar
+});
